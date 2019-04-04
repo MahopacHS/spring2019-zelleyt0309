@@ -1,5 +1,3 @@
-milk
-cheese
-eggs
-beer
-apples
+Your shopping list: 
+apple
+done
